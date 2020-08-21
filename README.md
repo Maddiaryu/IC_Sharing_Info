@@ -10,7 +10,8 @@ This guide utilises Kleho's site: https://idle.kleho.ru
 * [Sharing a Formation](#sharing-a-formation)
 
 ## Selecting Your Champion Pool
-
+On Kleho's site navigate to the "Hero Table" the first item on the navigation bar. This page has lots of ways to filter champions based on their attributes but for our purposes we won't be using those here. You will notice under all the filters a large text-based table of heroes, here in the far-left column is where you should tick each box for each champion you own.
+![Hero List](./images/hero_list.jpg)
 
 ## Sharing Your Champion Pool
 
