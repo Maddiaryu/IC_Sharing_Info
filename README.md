@@ -22,7 +22,8 @@ After selecting your unlocked champions you will want to make use of the "Show h
 After following the directions to select your champion pool you can now share it.
 
 * For Windows Users:
-  * Use the short-cut: WindowsKey+Shift+S this will allow you to click and drag a box over the area you wish to share and the screenshot will be saved to your clipboard where you can directly paste it into wherever you wish to share e.g. Discord
+  * Windows 10: Use the short-cut: WindowsKey+Shift+S this will allow you to click and drag a box over the area you wish to share and the screenshot will be saved to your clipboard where you can directly paste it into wherever you wish to share e.g. Discord
+  * Older Windows: Use the short-cut: Alt+PrtScn to take a screenshot of the current Window in focus. You can then paste this and crop it in MS Paint (or other image editing software) for you to save and then upload to Discord
 
 * For Mac Users:
   * Use the shortcut Shift+Command+4 this will then save the screenshot of the selected area to your desktop where you can then upload it directly to where you want to share it e.g. Discord
